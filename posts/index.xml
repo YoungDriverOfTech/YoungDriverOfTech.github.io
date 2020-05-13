@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 梁的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 13 May 2020 21:08:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 23:15:07 +0900</lastBuildDate>
     
 	<atom:link href="https://YoungDriverOfTech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>https://YoungDriverOfTech.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 13 May 2020 23:15:07 +0900</pubDate>
+      
+      <guid>https://YoungDriverOfTech.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这是我的第二篇博客，上传两张图片
+第一张(通过sm.ms网站上传) 第二张(项目静态资源) </description>
+    </item>
     
     <item>
       <title>开博大吉</title>
